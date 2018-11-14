@@ -1,4 +1,4 @@
-Name,Mesh1,Mesh2
+Name,Mesh1,Mesh2,Color
 号角 , D003003.mesh,
 腰鼓 , D003001.mesh,
 竹筒 , D003013.mesh,
@@ -373,6 +373,9 @@ Name,Mesh1,Mesh2
 云饮流霞 , D003332.mesh,
 暗星杳冥 , D003328.mesh,
 茱萸长念 , D003357.mesh,
+蜃梦海音 , D003390.mesh,
+无咎砚 , D003225.mesh,
+逆施乾坤 , D003232.mesh,
 灵微秉幽 , D016068.mesh,
 闻笙清笛 , D003222.mesh,
 小邪子的福娃娃 , D008016.mesh,
@@ -920,6 +923,7 @@ Name,Mesh1,Mesh2
 相思云鸢·伞 , D001026_close.Mesh,
 静尘清 , D005553.mesh,
 醉扶归 , D005564.mesh,
+梅隐墨骨 , D005600.mesh,
 舞云飞 , D001025_close.Mesh,
 月梦清秋·扇 , D005610b.mesh,
 秋兰雅箫 , D005560.mesh,
@@ -928,6 +932,11 @@ Name,Mesh1,Mesh2
 醉梦紫壶 , D005562.mesh,
 逶蛇玄霄 , D005554.mesh,
 凤引金琯 , D005614.mesh,
+沧海兰舟 , D005628.mesh,
+出渊云格 , D005377.mesh,
+倒行山海 , D005347.mesh,
+赐清平 , D005626.mesh,
+束月流弦 , D005622.mesh,
 浮香比翼 , D005475.mdl,
 桃影闲心 , D005481.mesh,
 寻珍味·虎仔 , D005364d.mesh,
@@ -3473,5 +3482,9 @@ Name,Mesh1,Mesh2
 容与逍遥·攸游 , M2_5149_body.mesh , F2_5149_body.mesh
 容与逍遥·自适 , M2_5149_body.mesh , F2_5149_body.mesh
 容与逍遥·永逸 , M2_5149_body.mesh , F2_5149_body.mesh
-5173 , M2_5173_body.mesh , F2_5173_body.mesh
+择羽化云·衣 , M2_5148_body.mesh , F2_5148_body.mesh
 宛曲流云·衣 , M2_5166_body.mesh , F2_5166_body.mesh
+长安着锦·檐月 , M2_5173_body.mesh , F2_5173_body.mesh
+长安着锦·碎玉 , M2_5173_body.mesh , F2_5173_body.mesh
+长安着锦·折枝 , M2_5173_body.mesh , F2_5173_body.mesh
+长安着锦·远澜 , M2_5173_body.mesh , F2_5173_body.mesh
