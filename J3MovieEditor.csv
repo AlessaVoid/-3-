@@ -1,4 +1,4 @@
-Name,Mesh1,Mesh2
+Name,Mesh1,Mesh2,Color
 号角 , D003003.mesh,
 腰鼓 , D003001.mesh,
 竹筒 , D003013.mesh,
@@ -376,6 +376,78 @@ Name,Mesh1,Mesh2
 蜃梦海音 , D003390.mesh,
 无咎砚 , D003225.mesh,
 逆施乾坤 , D003232.mesh,
+雪林小趣 , D003382.mesh,
+月中游 , D003381.mesh,
+醉涛饮海 , D003385.mesh,
+九目篪 , D003384.mesh,
+破阵踏霄·八腕目须 , D003398.mesh,
+鲸波荡世·霜绝 , D003314.mesh,
+醉解敌颅·飞炎 , D003314.mesh,
+无颜假面 , D003358.mesh,
+青云绢 , D003359.mesh,
+胭玉 , D003360.mesh,
+永王令 , D003361.mesh,
+幻羽银佩 , D003362.mesh,
+毒草笼 , D003002c.mesh,
+金丝玉珠 , D003364.mesh,
+贝芙 , D003365.mesh,
+牛头腰饰 , D003366.mesh,
+祭祀之石 , D003367.mesh,
+卐字佛珠 , D003368.mesh,
+泣血石 , D003369.mesh,
+仙葵瓶 , D003370.mesh,
+守剑令 , D003371.mesh,
+阴阳符腰环 , D003372.mesh,
+风炎晶 , D003373.mesh,
+精致轮盘 , D003374.mesh,
+贪狼牙坠 , D003375.mesh,
+熔断之锤 , D003376.mesh,
+名酿葫芦 , D003377.mesh,
+峨眉刺 , D003378.mesh,
+龙渊翡翠 , D003380.mesh,
+青竹刺 , D003379.mesh,
+蚀月·鸿 , D003248b.mesh,
+断水流·鸿 , D016011b.mesh,
+绝·鸿 , D003026d.mesh,
+腰鼓·鸿 , D003001c.mesh,
+秋剑·鸿 , D016016b.mesh,
+号角·鸿 , D003003d.mesh,
+卿·鸿 , D016012b.mesh,
+腰刀·鸿 , D016015b.mesh,
+悦·鸿 , D003024d.mesh,
+药囊·鸿 , D003019d.mesh,
+木鱼·鸿 , D003016b.mesh,
+木鱼·鸿 , D003014b.mesh,
+圣祭玄火令·鸿 , D003179c.mesh,
+七煞·鸿 , D003177c.mesh,
+礼天地壶·鸿 , D003150b.mesh,
+鬼神爵·鸿 , D003149b.mesh,
+觅影瓶·鸿 , D003019e.mesh,
+困山河·鸿 , D002010b.mesh,
+独乐咏·鸿 , D003025e.mesh,
+云湛重楼·鸿 , D003142b.mesh,
+纵贯线·鸿 , D003143b.mesh,
+碧玉金玲牙梳·鸿 , D003129b.mesh,
+白骨哀·鸿 , D003109b.mesh,
+天魅破煞·鸿 , D003108b.mesh,
+震日·鸿 , D003112b.mesh,
+九幻黑莲·鸿 , D003119b.mesh,
+激焰·鸿 , D003044c.mesh,
+铩·鸿 , D003032b.mesh,
+观澜 , D003399.mesh,
+渡夜 , D003400.mesh,
+浪语 , D003401.mesh,
+坠红 , D003345.mesh,
+孤泊 , D003351.mesh,
+贯白虹·千重 , D003403.mesh,
+贯白虹·烛影 , D003403.mesh,
+贯白虹·古道 , D003403.mesh,
+稻见飞莺 , D003388.mesh,
+鸾歌幽篁 , D003397.mesh,
+断狼环佩 , D003387.mesh,
+翡枝生弦 , D003395.mesh,
+鎏金小暖炉 , D003354.mesh,
+守贞匕·鸿 , D003130b.mesh,
 灵微秉幽 , D016068.mesh,
 闻笙清笛 , D003222.mesh,
 小邪子的福娃娃 , D008016.mesh,
@@ -937,6 +1009,70 @@ Name,Mesh1,Mesh2
 倒行山海 , D005347.mesh,
 赐清平 , D005626.mesh,
 束月流弦 , D005622.mesh,
+闲人回避 , D005611.mesh,
+万物有灵 , D005634.mesh,
+裂川 , D005615.mesh,
+沧海悬壶 , D005612.mesh,
+秋风螺 , D005630.mesh,
+破阵踏霄·八腕目威盾 , D005609.mesh,
+鲸波荡世·负勇 , D005531.mesh,
+醉解敌颅·从战 , D005531.mesh,
+毒蛛之刺 , D005608.mesh,
+石中之剑 , D005607.mesh,
+不败长枪 , D005606.mesh,
+靭盾 , D005605.mesh,
+我教红丝带 , D005604.mesh,
+魔音琵琶 , D005603.mesh,
+无隙 , D005602.mesh,
+绛焰·鸿 , D005447b.mesh,
+溯梦·鸿 , D005363b.mesh,
+水长生·雪银莲 , D005335allb.mesh,
+狰目鬼角刀·鸿 , D005299b.mesh,
+血犀角·鸿 , D005283b.mesh,
+阿史那汗旗·鸿 , D005246b.mesh,
+三味净琉璃·鸿 , D005205b.mesh,
+孟秋砚·鸿 , D005113b.mesh,
+画卷·鸿 , D003023b.mesh,
+焰·鸿 , D005316b.mesh,
+潺·鸿 , D005046b.mesh,
+霸王弩·鸿 , D005105b.mesh,
+霸王钳·鸿 , D005106b.mesh,
+擎风龙旗·鸿 , D005497b.mesh,
+飞天·鸿 , D004017d.mesh,
+神武盔·鸿 , D005301c.mesh,
+神羽盔·鸿 , D005301d.mesh,
+青耳钟·鸿 , D005258b.mesh,
+影傀儡·鸿 , D005242b.mesh,
+白蛟腹·鸿 , D005249b.mesh,
+千人屠双鳄·鸿 , D005243b.mesh,
+赤狼破刃·鸿 , D005244b.mesh,
+不见万物·鸿 , D005220b.mesh,
+黑龙斩铁·鸿 , D005232b.mesh,
+龙夺瑞·鸿 , D005222b.mesh,
+白牡丹花红釉瓶 , D005223b.mesh,
+金红狩命·鸿 , D005206b.mesh,
+秋声烛影·鸿 , D005208b.mesh,
+钧天·鸿 , D005207c.mesh,
+夜话·白鹭·鸿 , D005110b.mesh,
+挑天·鸿 , D005080b.mesh,
+赤缨无回·鸿 , D005183b.mesh,
+摄心凌魄·鸿 , D005179b.mesh,
+因花生·鸿 , D005201b.mesh,
+夺命三千·鸿 , D005060b.mesh,
+徊·鸿 , D005057c.mesh,
+輪·鸿 , D016017b.mesh,
+战渊 , D005639.mesh,
+即离 , D005586.mesh,
+蝶魄 , D005598.mesh,
+寄情 , D005385.mesh,
+七巧令·碧海追光 , D005636.mesh,
+穗燕衔镜 , D005624.mesh,
+月泠竹风 , D005633.mesh,
+残阳祸心 , D005623.mesh,
+凛花弄剑 , D005631.mesh,
+九州定鼎 , D005619.mesh,
+卦预乾坤 , D005620.mdl,
+朝露昙华 , D005621.mesh,
 浮香比翼 , D005475.mdl,
 桃影闲心 , D005481.mesh,
 寻珍味·虎仔 , D005364d.mesh,
@@ -1006,6 +1142,7 @@ Name,Mesh1,Mesh2
 鬼域·怀梦 , D012139M2.mesh,
 镜花浮名 , D012158.mesh,
 弦歌落曲 , D012163M2.mesh,
+不见澜生 , D012165M2.mesh,
 左肩挂件 , D022002L.Mesh,
 金盏玄狐·浇血·左 , D022002L.Mesh,
 金盏玄狐·琼楼·左 , D022002L.Mesh,
@@ -1633,6 +1770,11 @@ Name,Mesh1,Mesh2
 梅雪馨·凤翎鸣冬 , D005382_站立.Mesh,
 梅雪馨·鸿度几何 , D005383_站立.Mesh,
 鲤庭授道·绯秋翠 , D006069b_站立.Mesh,
+寒杀雪尘·披风 , D006066_站立.Mesh,
+江山浮绛·披风 , D006067_站立.Mesh,
+九幽惑心·诡风 , D006087_站立.Mesh,
+九幽惑心·飞寐 , D006087b_站立.Mesh,
+碧海云仙·披风 , D006093_站立.Mesh,
 高唐云梦·桃源春晓 , D005421_站立.Mesh,
 高唐云梦·锋芒傲骨 , D005422_站立.Mesh,
 因缘悟境·一 , M2_2101_body.mesh , F2_2501_body.mesh
@@ -2257,6 +2399,66 @@ Name,Mesh1,Mesh2
 暮雪归·二 , M2_6206_body.mesh , F2_6206_body.mesh
 暮雪归·三 , M2_6206_body.mesh , F2_6206_body.mesh
 暮雪归·四 , M2_6206_body.mesh , F2_6206_body.mesh
+金佛不语·一 , M2_2116_body.mesh , F2_2516_body.mesh
+金佛不语·二 , M2_2116_body.mesh , F2_2516_body.mesh
+金佛不语·三 , M2_2116_body.mesh , F2_2516_body.mesh
+金佛不语·四 , M2_2116_body.mesh , F2_2516_body.mesh
+青琅云语·一 , M2_2216_body.mesh , F2_2216_body.mesh
+青琅云语·二 , M2_2216_body.mesh , F2_2216_body.mesh
+青琅云语·三 , M2_2216_body.mesh , F2_2216_body.mesh
+青琅云语·四 , M2_2216_body.mesh , F2_2216_body.mesh
+绯狼天威·一 , M2_2716_body.mesh , F2_2716_body.mesh
+绯狼天威·二 , M2_2716_body.mesh , F2_2716_body.mesh
+绯狼天威·三 , M2_2716_body.mesh , F2_2716_body.mesh
+绯狼天威·四 , M2_2716_body.mesh , F2_2716_body.mesh
+凌云拂霄·一 , M2_2616_body.mesh , F2_2616_body.mesh
+凌云拂霄·二 , M2_2616_body.mesh , F2_2616_body.mesh
+凌云拂霄·三 , M2_2616_body.mesh , F2_2616_body.mesh
+凌云拂霄·四 , M2_2616_body.mesh , F2_2616_body.mesh
+风华盈袖·一 , M2_2116_body.mesh , F2_2516_body.mesh
+风华盈袖·二 , M2_2116_body.mesh , F2_2516_body.mesh
+风华盈袖·三 , M2_2116_body.mesh , F2_2516_body.mesh
+风华盈袖·四 , M2_2116_body.mesh , F2_2516_body.mesh
+千蛊噬情·一 , M2_2314_body.mesh , F2_2314_body.mesh
+千蛊噬情·二 , M2_2314_body.mesh , F2_2314_body.mesh
+千蛊噬情·三 , M2_2314_body.mesh , F2_2314_body.mesh
+千蛊噬情·四 , M2_2314_body.mesh , F2_2314_body.mesh
+暗影寒汀·一 , M2_2413_body.mesh , F2_2413_body.mesh
+暗影寒汀·二 , M2_2413_body.mesh , F2_2413_body.mesh
+暗影寒汀·三 , M2_2413_body.mesh , F2_2413_body.mesh
+暗影寒汀·四 , M2_2413_body.mesh , F2_2413_body.mesh
+烟柳藏锋·一 , M2_2017_body.mesh , F2_2017_body.mesh
+烟柳藏锋·二 , M2_2017_body.mesh , F2_2017_body.mesh
+烟柳藏锋·三 , M2_2017_body.mesh , F2_2017_body.mesh
+烟柳藏锋·四 , M2_2017_body.mesh , F2_2017_body.mesh
+不惊尘雨·一 , M2_2811_body.mesh , F2_2811_body.mesh
+不惊尘雨·二 , M2_2811_body.mesh , F2_2811_body.mesh
+不惊尘雨·三 , M2_2811_body.mesh , F2_2811_body.mesh
+不惊尘雨·四 , M2_2811_body.mesh , F2_2811_body.mesh
+流月泠光·一 , M2_2912b_body.mesh , F2_2912b_body.mesh
+流月泠光·二 , M2_2912b_body.mesh , F2_2912b_body.mesh
+流月泠光·三 , M2_2912b_body.mesh , F2_2912b_body.mesh
+流月泠光·四 , M2_2912b_body.mesh , F2_2912b_body.mesh
+朔风卷雪·一 , M2_6008_body.mesh , F2_6008_body.mesh
+朔风卷雪·二 , M2_6008_body.mesh , F2_6008_body.mesh
+朔风卷雪·三 , M2_6008_body.mesh , F2_6008_body.mesh
+朔风卷雪·四 , M2_6008_body.mesh , F2_6008_body.mesh
+波心夜韵·一 , M2_6107_body.mesh , F2_6107_body.mesh
+波心夜韵·二 , M2_6107_body.mesh , F2_6107_body.mesh
+波心夜韵·三 , M2_6107_body.mesh , F2_6107_body.mesh
+波心夜韵·四 , M2_6107_body.mesh , F2_6107_body.mesh
+鸣刃击缶·一 , M2_6207_body.mesh , F2_6207_body.mesh
+鸣刃击缶·二 , M2_6207_body.mesh , F2_6207_body.mesh
+鸣刃击缶·三 , M2_6207_body.mesh , F2_6207_body.mesh
+鸣刃击缶·四 , M2_6207_body.mesh , F2_6207_body.mesh
+朗玉仙风·一 , M2_6301_body.mesh , F2_6301_body.mesh
+朗玉仙风·二 , M2_6301_body.mesh , F2_6301_body.mesh
+朗玉仙风·三 , M2_6301_body.mesh , F2_6301_body.mesh
+朗玉仙风·四 , M2_6301_body.mesh , F2_6301_body.mesh
+冯虚化仙·一 , M2_6302_body.mesh , F2_6302_body.mesh
+冯虚化仙·二 , M2_6302_body.mesh , F2_6302_body.mesh
+冯虚化仙·三 , M2_6302_body.mesh , F2_6302_body.mesh
+冯虚化仙·四 , M2_6302_body.mesh , F2_6302_body.mesh
 无忧梵音·一 , M2_4004_body.mesh , F2_4004_body.mesh
 无忧梵音·二 , M2_4004_body.mesh , F2_4004_body.mesh
 无忧梵音·三 , M2_4004_body.mesh , F2_4004_body.mesh
@@ -2871,6 +3073,8 @@ Name,Mesh1,Mesh2
 凤舆龙驾·素心 , M2_5037_body.mesh , F2_5037_body.mesh
 凤舆龙驾·风萍 , M2_5037_body.mesh , F2_5037_body.mesh
 凤舆龙驾·夜雪 , M2_5037_body.mesh , F2_5037_body.mesh
+凤舆龙驾·化雪 , M2_5037b_body.mesh , F2_5037b_body.mesh
+凤舆龙驾·错弦 , M2_5037b_body.mesh , F2_5037b_body.mesh
 仙侣奇缘·鼓迟 , M2_5035_body.mesh , F2_5035_body.mesh
 仙侣奇缘·白尊 , M2_5035_body.mesh , F2_5035_body.mesh
 仙侣奇缘·旌秋 , M2_5035_body.mesh , F2_5035_body.mesh
@@ -2915,6 +3119,8 @@ Name,Mesh1,Mesh2
 天河对影·夕影 , M2_5040_body.mesh , F2_5040_body.mesh
 天河对影·萤晨 , M2_5040_body.mesh , F2_5040_body.mesh
 天河对影·烟阁 , M2_5040_body.mesh , F2_5040_body.mesh
+天河对影·枕星 , M2_5040e_body.mesh , F2_5040e_body.mesh
+天河对影·清晏 , M2_5040e_body.mesh , F2_5040e_body.mesh
 鬼神泣·朝云 , M2_5042_body.mesh , F2_5042_body.mesh
 鬼神泣·鸾空 , M2_5042_body.mesh , F2_5042_body.mesh
 鬼神泣·明海 , M2_5042_body.mesh , F2_5042_body.mesh
@@ -3488,3 +3694,26 @@ Name,Mesh1,Mesh2
 长安着锦·碎玉 , M2_5173_body.mesh , F2_5173_body.mesh
 长安着锦·折枝 , M2_5173_body.mesh , F2_5173_body.mesh
 长安着锦·远澜 , M2_5173_body.mesh , F2_5173_body.mesh
+缀金迷度·一 , M2_3067_body.mesh , F2_3067_body.mesh
+缀金迷度·二 , M2_3067_body.mesh , F2_3067_body.mesh
+缀金迷度·三 , M2_3067_body.mesh , F2_3067_body.mesh
+缀金迷度·四 , M2_3067_body.mesh , F2_3067_body.mesh
+细亚琉丝·一 , M2_3068_body.mesh , F2_3068_body.mesh
+细亚琉丝·二 , M2_3068_body.mesh , F2_3068_body.mesh
+细亚琉丝·三 , M2_3068_body.mesh , F2_3068_body.mesh
+细亚琉丝·四 , M2_3068_body.mesh , F2_3068_body.mesh
+照夜云散·孤舟 , M2_3076_body.mesh , F2_3076_body.mesh
+照夜云散·楚天 , M2_3076_body.mesh , F2_3076_body.mesh
+远行客·千重·衣 , M2_5193_body.mesh , F2_5193_body.mesh
+远行客·烛影·衣 , M2_5193_body.mesh , F2_5193_body.mesh
+远行客·古道·衣 , M2_5193_body.mesh , F2_5193_body.mesh
+碧海云仙·衣 , M2_5197_body.mesh , F2_5197_body.mesh
+碧海云仙·包身 , M2_5197a_body.mesh , F2_5197a_body.mesh
+5180·1 , M2_5180_body.mesh , F2_5180_body.mesh
+5180·2 , M2_5180b_body.mesh , F2_5180b_body.mesh
+5163·1 , M2_5163_body.mesh , F2_5163_body.mesh
+5168·1 , M2_5168_body.mesh , F2_5168_body.mesh
+清枝晚影·一 , M2_3081_body.mesh , F2_3081_body.mesh
+清枝晚影·二 , M2_3081_body.mesh , F2_3081_body.mesh
+清枝晚影·三 , M2_3081_body.mesh , F2_3081_body.mesh
+清枝晚影·四 , M2_3081_body.mesh , F2_3081_body.mesh
