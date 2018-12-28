@@ -448,6 +448,7 @@ Name,Mesh1,Mesh2
 翡枝生弦 , D003395.mesh,
 鎏金小暖炉 , D003354.mesh,
 守贞匕·鸿 , D003130b.mesh,
+绮罗 , D003404.mesh,
 灵微秉幽 , D016068.mesh,
 闻笙清笛 , D003222.mesh,
 小邪子的福娃娃 , D008016.mesh,
@@ -1380,6 +1381,7 @@ Name,Mesh1,Mesh2
 剑歌惊月·左 , D022123L.Mesh,
 浮屠明音·左 , D022131L.Mesh,
 碧翎叠云·左 , D022132L.Mesh,
+碧海云仙·左 , D022137L.Mesh,
 右肩挂件 , D022002R.Mesh,
 金盏玄狐·浇血·右 , D022002R.Mesh,
 金盏玄狐·琼楼·右 , D022002R.Mesh,
@@ -1615,6 +1617,7 @@ Name,Mesh1,Mesh2
 剑歌惊月·右 , D022123R.Mesh,
 浮屠明音·右 , D022131R.Mesh,
 碧翎叠云·右 , D022132R.Mesh,
+碧海云仙·右 , D022137R.Mesh,
 测试披风 , D005042.mesh,
 蓑衣 , D005042.mesh,
 西山宝库·蓑衣 , D005042.mesh,
@@ -3709,9 +3712,9 @@ Name,Mesh1,Mesh2
 远行客·古道·衣 , M2_5193_body.mesh , F2_5193_body.mesh
 碧海云仙·衣 , M2_5197_body.mesh , F2_5197_body.mesh
 碧海云仙·包身 , M2_5197a_body.mesh , F2_5197a_body.mesh
-5180·1 , M2_5180_body.mesh , F2_5180_body.mesh
+寒山拥炉·衣 , M2_5180_body.mesh , F2_5180_body.mesh
 5180·2 , M2_5180b_body.mesh , F2_5180b_body.mesh
-5163·1 , M2_5163_body.mesh , F2_5163_body.mesh
+明石幽雅 , M2_5198_body.mesh , F2_5198_body.mesh
 5168·1 , M2_5168_body.mesh , F2_5168_body.mesh
 清枝晚影·一 ( 通用归宁袍 ) , M2_3081_body.mesh , F2_3081_body.mesh
 清枝晚影·二 ( 通用归宁袍 ) , M2_3081_body.mesh , F2_3081_body.mesh
