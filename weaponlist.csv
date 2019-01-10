@@ -1742,11 +1742,11 @@ Name,Mesh1,Mesh2,sfx1,sfx2
 巳徵双剑 (风尘) , RH_Sword_011.Mesh, RH_Sword_011.Mesh,
 苍龙 , D004016.Mesh, D004016.Mesh, , D004016苍龙.Sfx
 断鬼 , RH_brush_054.Mesh, RH_brush_054.Mesh, , RH_brush_054断鬼.Sfx
-西天 , RH_wand_025.Mesh, RH_wand_025.Mesh, , RH_wand_025九环锡杖.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx
-白骨碎云 , RH_wand_024.Mesh, RH_wand_024.Mesh, , RH_wand_024白骨碎云.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx
+西天 , RH_wand_025.Mesh, RH_wand_025.Mesh, , RH_wand_025九环锡杖.Sfx
+白骨碎云 , RH_wand_024.Mesh, RH_wand_024.Mesh, , RH_wand_024白骨碎云.Sfx
 蛟影 , D007194.Mesh, D007194.Mesh, , D007194长生.Sfx
 留情 , D007197.Mesh, D007197.Mesh, , D007197留情.Sfx
-焚海 , RH_spear_013.Mesh, RH_spear_013.Mesh, , RH_spear_013焚海.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx
+焚海 , RH_spear_013.Mesh, RH_spear_013.Mesh, , RH_spear_013焚海.Sfx
 初尘 , RH_spear_012.Mesh, RH_spear_012.Mesh, , RH_spear_012出尘.Sfx
 赤练蓝翼 , D007196.Mesh, D007195.Mesh, D007196赤炼.Sfx, D007195蓝翼.Sfx
 寒铁冰魄 , D007198.Mesh, D007198.Mesh, D007198寒铁冰魄.Sfx, D007198寒铁冰魄.Sfx
@@ -2228,11 +2228,11 @@ Name,Mesh1,Mesh2,sfx1,sfx2
 虫笛测试  (今朝相伴) , D011001.Mesh, D011001.Mesh,
 苍龙 , D004016.Mesh, D004016.Mesh, , D004016苍龙.Sfx
 断鬼 , RH_brush_054.Mesh, RH_brush_054.Mesh, , RH_brush_054断鬼.Sfx
-西天 , RH_wand_025.Mesh, RH_wand_025.Mesh, , RH_wand_025九环锡杖.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx
-白骨碎云 , RH_wand_024.Mesh, RH_wand_024.Mesh, , RH_wand_024白骨碎云.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx
+西天 , RH_wand_025.Mesh, RH_wand_025.Mesh, , RH_wand_025九环锡杖.Sfx
+白骨碎云 , RH_wand_024.Mesh, RH_wand_024.Mesh, , RH_wand_024白骨碎云.Sfx
 蛟影 , D007194.Mesh, D007194.Mesh, , D007194长生.Sfx
 留情 , D007197.Mesh, D007197.Mesh, , D007197留情.Sfx
-焚海 , RH_spear_013.Mesh, RH_spear_013.Mesh, , RH_spear_013焚海.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx
+焚海 , RH_spear_013.Mesh, RH_spear_013.Mesh, , RH_spear_013焚海.Sfx
 初尘 , RH_spear_012.Mesh, RH_spear_012.Mesh, , RH_spear_012出尘.Sfx
 赤练蓝翼 , D007196.Mesh, D007195.Mesh, D007196赤炼.Sfx, D007195蓝翼.Sfx
 寒铁冰魄 , D007198.Mesh, D007198.Mesh, D007198寒铁冰魄.Sfx, D007198寒铁冰魄.Sfx
@@ -3030,8 +3030,8 @@ Name,Mesh1,Mesh2,sfx1,sfx2
 皮鞭 (溪水香) , D007007.Mesh, D007007.Mesh,
 钝剑 (愚公) , D007185.Mesh, D007185.Mesh,
 木笛 (今朝相伴) , D011001.Mesh, D011001.Mesh,
-雕心刃 (随缘) , D007145.Mesh, D007145.Mesh, ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , 
-玄铁枪 (后屠) , RH_Spear_009.Mesh, RH_Spear_009.Mesh, ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , 
+雕心刃 (随缘) , D007145.Mesh, D007145.Mesh, , 
+玄铁枪 (后屠) , RH_Spear_009.Mesh, RH_Spear_009.Mesh, , 
 藏剑外功威望武器 (淡水·一) (淡水) , D007230b.Mesh, D007230b.Mesh,
 藏剑外功威望武器 (淡水·一) (淡水) , D007230b.Mesh, D007230b.Mesh,
 藏剑外功威望武器 (狱水梅池) , D007143.Mesh, D007143.Mesh,
@@ -3216,11 +3216,11 @@ Name,Mesh1,Mesh2,sfx1,sfx2
 慕光古笛 (僧渡) , D011003.Mesh, D011003.Mesh,
 鸿雁 , RH_brush_086.Mesh, RH_brush_086.Mesh, , D004016苍龙.Sfx
 碧落 , RH_brush_085.Mesh, RH_brush_085.Mesh, , RH_brush_054断鬼.Sfx
-白衣焚天 , RH_wand_081.Mesh, RH_wand_081.Mesh, , RH_wand_025九环锡杖.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx
-龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx
+白衣焚天 , RH_wand_081.Mesh, RH_wand_081.Mesh, , RH_wand_025九环锡杖.Sfx
+龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx
 吞吴 , RH_sword_115.Mesh, RH_sword_115.Mesh, , RH_sword_115吞吴.sfx
 玉清玄明 , RH_sword_116.Mesh, RH_sword_116.Mesh, , D007197留情.Sfx
-碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx
+碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx
 摧城 , RH_spear_073.Mesh, RH_spear_073.Mesh, , RH_spear_012出尘.Sfx
 幽月·乱花 , RH_sword_113.Mesh, RH_sword_113.Mesh, D007196赤炼.Sfx, D007195蓝翼.Sfx
 轻离 , RH_sword_114.Mesh, RH_sword_114.Mesh, D007198寒铁冰魄.Sfx, D007198寒铁冰魄.Sfx
@@ -3737,14 +3737,14 @@ Name,Mesh1,Mesh2,sfx1,sfx2
 玉清玄明 , RH_sword_116.Mesh, RH_sword_116.Mesh, , D007197留情.Sfx
 御风 , RH_sword_112.Mesh, RH_sword_112.Mesh, , RH_sword_115吞吴.sfx
 织炎断尘 , D007256.Mesh, D007256.Mesh, , D007256断尘.Sfx
-碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx
+碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx
 鸿雁 , RH_brush_086.Mesh, RH_brush_086.Mesh, , D004016苍龙.Sfx
 碧落 , RH_brush_085.Mesh, RH_brush_085.Mesh, , RH_brush_054断鬼.Sfx
 幽月·乱花 , RH_sword_113.Mesh, RH_sword_113.Mesh, D007196赤炼.Sfx, D007195蓝翼.Sfx
 轻离 , RH_sword_114.Mesh, RH_sword_114.Mesh, D007198寒铁冰魄.Sfx, D007198寒铁冰魄.Sfx
 浴凰 , D011043.Mesh, D011043.Mesh, , D011043浴凰.Sfx
 鸣雷惊蛰 , D011042.Mesh, D011042.Mesh, , D011042惊蛰.Sfx
-龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx
+龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx
 地渊沉星 , RH_bow_003.mdl, RH_bow_003.mdl, , bow_003红.Sfx
 孔雀羽 , RH_bow_013.mdl, RH_bow_013.mdl, , bow_013蓝.Sfx
 飞羽匣 (芳草姑苏) , RH_bow_009.mdl, RH_bow_009.mdl,
@@ -4591,11 +4591,11 @@ Name,Mesh1,Mesh2,sfx1,sfx2
 妙火天香串·跋山涉水 (高豪) , RH_knife_032.Mesh, RH_knife_032.Mesh,
 鸿雁 , RH_brush_086.Mesh, RH_brush_086.Mesh, , D004016苍龙.Sfx
 碧落 , RH_brush_085.Mesh, RH_brush_085.Mesh, , RH_brush_054断鬼.Sfx
-白衣焚天 , RH_wand_081.Mesh, RH_wand_081.Mesh, , RH_wand_025九环锡杖.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx
-龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx
+白衣焚天 , RH_wand_081.Mesh, RH_wand_081.Mesh, , RH_wand_025九环锡杖.Sfx
+龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx
 吞吴 , RH_sword_115.Mesh, RH_sword_115.Mesh, , RH_sword_115吞吴.sfx
 玉清玄明 , RH_sword_116.Mesh, RH_sword_116.Mesh, , D007197留情.Sfx
-碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx
+碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx
 摧城 , RH_spear_073.Mesh, RH_spear_073.Mesh, , RH_spear_012出尘.Sfx
 幽月·乱花 , RH_sword_113.Mesh, RH_sword_113.Mesh, D007196赤炼.Sfx, D007195蓝翼.Sfx
 轻离 , RH_sword_114.Mesh, RH_sword_114.Mesh, D007198寒铁冰魄.Sfx, D007198寒铁冰魄.Sfx
@@ -4609,11 +4609,11 @@ Name,Mesh1,Mesh2,sfx1,sfx2
 悲魔饥火 , RH_knife_025.Mesh, RH_knife_025.Mesh, RH_knife025_80.Sfx, RH_knife025_80.Sfx
 鸿雁 , RH_brush_086.Mesh, RH_brush_086.Mesh, , D004016苍龙.Sfx
 碧落 , RH_brush_085.Mesh, RH_brush_085.Mesh, , RH_brush_054断鬼.Sfx
-白衣焚天 , RH_wand_081.Mesh, RH_wand_081.Mesh, , RH_wand_025九环锡杖.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx
-龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx
+白衣焚天 , RH_wand_081.Mesh, RH_wand_081.Mesh, , RH_wand_025九环锡杖.Sfx
+龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx
 吞吴 , RH_sword_115.Mesh, RH_sword_115.Mesh, , RH_sword_115吞吴.sfx
 玉清玄明 , RH_sword_116.Mesh, RH_sword_116.Mesh, , D007197留情.Sfx
-碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx
+碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx
 摧城 , RH_spear_073.Mesh, RH_spear_073.Mesh, , RH_spear_012出尘.Sfx
 幽月·乱花 , RH_sword_113.Mesh, RH_sword_113.Mesh, D007196赤炼.Sfx, D007195蓝翼.Sfx
 轻离 , RH_sword_114.Mesh, RH_sword_114.Mesh, D007198寒铁冰魄.Sfx, D007198寒铁冰魄.Sfx
@@ -5999,11 +5999,11 @@ PVP测试装备 , RH_knife_015.Mesh, RH_knife_015.Mesh,
 虎贲·蒲犁刀 (罗金雨) , RH_knife_024.Mesh, RH_knife_024.Mesh,
 鸿雁 , RH_brush_086.Mesh, RH_brush_086.Mesh, , D004016苍龙.Sfx
 碧落 , RH_brush_085.Mesh, RH_brush_085.Mesh, , RH_brush_054断鬼.Sfx
-白衣焚天 , RH_wand_081.Mesh, RH_wand_081.Mesh, , RH_wand_025九环锡杖.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx , 释放_淡紫色剑光01.Sfx
-龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx , 释放_青色剑光01.Sfx
+白衣焚天 , RH_wand_081.Mesh, RH_wand_081.Mesh, , RH_wand_025九环锡杖.Sfx
+龙木金藤 , RH_wand_080.Mesh, RH_wand_080.Mesh, , RH_wand_024白骨碎云.Sfx
 吞吴 , RH_sword_115.Mesh, RH_sword_115.Mesh, , RH_sword_115吞吴.sfx
 玉清玄明 , RH_sword_116.Mesh, RH_sword_116.Mesh, , D007197留情.Sfx
-碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx , 释放_蓝色剑光01.Sfx
+碎魂 , RH_spear_072.Mesh, RH_spear_072.Mesh, , RH_spear_013焚海.Sfx
 摧城 , RH_spear_073.Mesh, RH_spear_073.Mesh, , RH_spear_012出尘.Sfx
 幽月·乱花 , RH_sword_113.Mesh, RH_sword_113.Mesh, D007196赤炼.Sfx, D007195蓝翼.Sfx
 轻离 , RH_sword_114.Mesh, RH_sword_114.Mesh, D007198寒铁冰魄.Sfx, D007198寒铁冰魄.Sfx
