@@ -13470,7 +13470,7 @@ PVP测试装备 (一生任性) , LH_piano_022.Mesh, RH_blade_003.Mesh
 神舒 (兴亡散序) , LH_piano_068.Mesh, RH_blade_001.Mesh
 忘潺 (兴亡散序) , LH_piano_068.Mesh, RH_blade_001.Mesh
 肆岚 (璃灭) , LH_BDdagger_038.Mesh, RH_BDknife_038.Mesh
-长空吟 , San_029.mdl, San_029.mdl
+长空吟 (幽园幻梦) , San_029.mdl, San_029.mdl
 阿耆尼 (枯泥寺) , RH_wand_138.Mesh, RH_wand_138.Mesh
 罗刹 (枯泥寺) , RH_wand_138.Mesh, RH_wand_138.Mesh
 枉古 (蘸蓝) , RH_brush_138.Mesh, RH_brush_138.Mesh
@@ -13495,7 +13495,7 @@ PVP测试装备 (一生任性) , LH_piano_022.Mesh, RH_blade_003.Mesh
 临轩 (兴亡散序) , LH_piano_068.Mesh, RH_blade_001.Mesh
 栖鸟 (兴亡散序) , LH_piano_068.Mesh, RH_blade_001.Mesh
 钧鸣 (璃灭) , LH_BDdagger_038.Mesh, RH_BDknife_038.Mesh
-羽还 , San_029.mdl, San_029.mdl
+羽还 (幽园幻梦) , San_029.mdl, San_029.mdl
 至归 (别难) , RH_wand_078.Mesh, RH_wand_078.Mesh
 除障 (别难) , RH_wand_078.Mesh, RH_wand_078.Mesh
 生死持著 (吐月) , RH_brush_082.Mesh, RH_brush_082.Mesh
@@ -13740,7 +13740,7 @@ PVP测试装备 (一生任性) , LH_piano_022.Mesh, RH_blade_003.Mesh
 雁山参云 (杯雪雁归) , LH_shield_084.mdl, RH_pike_084.mdl
 琴·国风 (幽弦泠音) , LH_piano_084.Mesh, RH_blade_084.Mesh
 琴·小雅 (幽弦泠音) , LH_piano_084.Mesh, RH_blade_084.Mesh
-风卷常山 (定山河) , LH_BDdagger_002.Mesh, RH_BDknife_002.Mesh
+风卷常山 (云风游天) , LH_BDdagger_055.Mesh, RH_BDknife_055.Mesh
 逝风 (岁寒梅落) , San_032.mdl, San_032.mdl
 了心怀 (大圣乐土) , RH_wand_137.Mesh, RH_wand_137.Mesh
 青灯 (大圣乐土) , RH_wand_137.Mesh, RH_wand_137.Mesh
@@ -13858,7 +13858,7 @@ PVP测试装备 (一生任性) , LH_piano_022.Mesh, RH_blade_003.Mesh
 靖平九州·鹤顶琴 (千鹤响) , LH_piano_017.Mesh, RH_blade_017.Mesh
 靖平九州·命驾琴 (千鹤响) , LH_piano_017.Mesh, RH_blade_017.Mesh
 靖平九州·游岳刀 (别飞鸿) , LH_BDdagger_012.Mesh, RH_BDknife_012.Mesh
-靖平九州·漠虚灵伞 , San_029.mdl, San_029.mdl
+靖平九州·漠虚灵伞 (新竹晚影) (新竹晚影·一) , San_006.mdl, San_006.mdl
 炙锋枭战·奉行禅杖 (捣霜眀) (捣霜眀·一) , RH_wand_116.Mesh, RH_wand_116.Mesh
 炙锋枭战·界闲笔 (月饮怀) (月饮怀·一) , RH_brush_115.Mesh, RH_brush_115.Mesh
 炙锋枭战·樽酒笔 (月饮怀) (月饮怀·一) , RH_brush_115.Mesh, RH_brush_115.Mesh
@@ -13879,7 +13879,7 @@ PVP测试装备 (一生任性) , LH_piano_022.Mesh, RH_blade_003.Mesh
 炙锋枭战·绕池琴 (千鹤响) , LH_piano_017.Mesh, RH_blade_017.Mesh
 炙锋枭战·顾影琴 (千鹤响) , LH_piano_017.Mesh, RH_blade_017.Mesh
 炙锋枭战·遥山刀 (别飞鸿) , LH_BDdagger_012.Mesh, RH_BDknife_012.Mesh
-炙锋枭战·碧虚灵伞 , San_029.mdl, San_029.mdl
+炙锋枭战·碧虚灵伞 (新竹晚影) (新竹晚影·一) , San_006.mdl, San_006.mdl
 策马扬戈·莲禅棍 (枯九折) (枯九折·一) , RH_wand_115.Mesh, RH_wand_115.Mesh
 策马扬戈·竹砚笔 (西游空山) (西游空山·一) , RH_brush_114.Mesh, RH_brush_114.Mesh
 策马扬戈·澜梦笔 (西游空山) (西游空山·一) , RH_brush_114.Mesh, RH_brush_114.Mesh
@@ -13977,7 +13977,7 @@ PVP测试装备 (一生任性) , LH_piano_022.Mesh, RH_blade_003.Mesh
 月冷长河·离鬼笛 (碧炉凤) , D011098.Mesh, D011098.Mesh
 月冷长河·唤魂笛 (碧炉凤) , D011098.Mesh, D011098.Mesh
 月冷长河·追魄弩 (与归) , RH_bow_079.mdl, RH_bow_079.mdl
-月冷长河·逐魂剑 (与归) , RH_bow_079.mdl, RH_bow_079.mdl
+月冷长河·逐魂弩 (与归) , RH_bow_079.mdl, RH_bow_079.mdl
 月冷长河·破灵轻剑 (辩歌) , RH_sword_287.Mesh, RH_sword_287.Mesh
 月冷长河·劈魂重剑 (风雨终) , D007386.Mesh, D007386.Mesh
 月冷长河·招邪短棍 (雾沾襟) , Lh_stick_033.Mesh, RH_flagon_069.Mesh
@@ -14546,7 +14546,7 @@ PVP测试装备 (一生任性) , LH_piano_022.Mesh, RH_blade_003.Mesh
 广庭 (刺锋) , San_028.mdl, San_028.mdl
 结秀 (刺锋) , San_028.mdl, San_028.mdl
 提玉 (刺锋) , San_028.mdl, San_028.mdl
-皓峰刀 (刺锋) , San_028.mdl, San_028.mdl
+木芙伞 (刺锋) , San_028.mdl, San_028.mdl
 桃李 (刺锋) , San_028.mdl, San_028.mdl
 叶花飞 (刺锋) , San_028.mdl, San_028.mdl
 玄会 (刺锋) , San_028.mdl, San_028.mdl
@@ -14626,7 +14626,7 @@ PVP测试装备 (一生任性) , LH_piano_022.Mesh, RH_blade_003.Mesh
 离朱刀 (云燕成双) , San_002.mdl, San_002.mdl
 漱雪刀 (云燕成双) , San_002.mdl, San_002.mdl
 飞汉刀 (云燕成双) , San_002.mdl, San_002.mdl
-白玉刀 (云燕成双) , San_002.mdl, San_002.mdl
+蕙芬纸伞 (云燕成双) , San_002.mdl, San_002.mdl
 如云刀 (云燕成双) , San_002.mdl, San_002.mdl
 碧浪浮龙 (云燕成双) , San_002.mdl, San_002.mdl
 山月寒 (云燕成双) , San_002.mdl, San_002.mdl
@@ -15425,3 +15425,5 @@ PVP测试装备 (一生任性) , LH_piano_022.Mesh, RH_blade_003.Mesh
 结倚 (八方涟漪) , LH_piano_030.Mesh, RH_blade_016.Mesh
 荒月 (悲白) , LH_BDdagger_007.Mesh, RH_BDknife_007.Mesh
 紫吴 (斑斑化碧) , LH_BDdagger_004.Mesh, RH_BDknife_004.Mesh
+至尊剔骨刀·星月万里 (冷落) , D007154.Mesh, D007154.Mesh
+烟波渺 (河汉朔流) , San_003.mdl, San_003.mdl
