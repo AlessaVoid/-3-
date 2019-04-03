@@ -1,4 +1,5 @@
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+
 整理了一些编辑器编号，放在以下几个文件中，大家可以按需求找寻：
 
 挂件、披风、衣饰、外观、发型、坐骑：J3MovieEditor.csv
@@ -7,4 +8,3 @@
 
 给各位玩剑三编辑器的小伙伴~！
 -北辰
--2019.4.3:加入996.icu计划
