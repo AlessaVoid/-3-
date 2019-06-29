@@ -2290,6 +2290,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 鲲鹏矮马·飒寒月 , A190e_HD, , , ,173
 鲲鹏矮马·墨夜骓 , A190c_HD, , , ,174
 鲲鹏矮马·金骢骠 , A190d_HD, , , ,175
+西山拂雪 , A018J_hd, , , ,176
 铁纹兽皮笼套 , Horse_01_hand, , ,,10
 银龙笼套 , Horse_04_hand, , ,,11
 银风笼套 , Horse_05_hand, , ,,23
@@ -5425,7 +5426,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 锦衣行·玉白,M2_5044_body,F2_5044_body,M2_1089_head,F2_1089_head,513
 锦衣行·夜疾,M2_5044e_body,F2_5044e_body,, ,692
 锦衣行·谒游,M2_5044e_body,F2_5044e_body,, ,692
-碧落星云,M2_5047_body,F2_5047_body,, ,514
+碧落星云,M2_5047_body,F2_5047_body,M2_1091_head,F2_1091_head,514
 桃花流水·清兮,M2_5027c_body,F2_5027b_body,, ,515
 桃花流水·情悦,M2_5027c_body,F2_5027b_body,, ,515
 九曲东溟·西天,M2_5029b_body,F2_5029c_body,, ,516
