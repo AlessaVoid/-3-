@@ -510,6 +510,8 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 藕无丝 , D003159, , , ,502
 报华浓 , D003462, , , ,503
 鱼龙跋浪·游龙吟 , D003447, , , ,504
+金笼雀 , D003456, , , ,505
+骷哀城 , D003455, , , ,506
 小邪子的福娃娃 , D008016, , , ,45
 小悟空 , D005137, , , ,62
 破损不堪的装备 , D016017, , , ,4
@@ -1234,6 +1236,13 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 玉髓咒 , D005171, , , ,638
 紫金辔 , D005737, , , ,639
 鱼龙跋浪·潜鳞北望 , D005713, , , ,640
+鸢蝶春 , D005728, , , ,641
+彻骨寒 , D005729, , , ,642
+玉楼笙歌 , D005683, , , ,643
+幽篁栖桐·英菲 , D005723, , , ,644
+幽篁栖桐·明江 , D005723, , , ,645
+幽篁栖桐·情思 , D005723, , , ,646
+幽篁栖桐·远怀 , D005723, , , ,647
 如意帘·一帆风顺 , D012064, , , ,1
 如意帘·二龙戏珠 , D012065, , , ,2
 如意帘·三阳开泰 , D012066, , , ,3
@@ -1303,6 +1312,8 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 晓月笼纱 , D012171M2, , , ,53
 血影鬼颜 , D012192M2, , , ,54
 隐狐匿踪 , D012191M2, , , ,55
+恨情 , D012186M2, , , ,56
+别殇 , D012187M2, , , ,57
 左肩挂件 , D022002L, , , ,1
 金盏玄狐·浇血·左 , D022002L, , , ,1
 金盏玄狐·琼楼·左 , D022002L, , , ,2
@@ -1559,6 +1570,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 虞渊引梦·左 , D022160L, , , ,243
 日月无心·左 , D022156L, , , ,242
 霜岱应元·左 , D022159L, , , ,244
+斩夜无常·左 , D022162L, , , ,245
 右肩挂件 , D022002R, , , ,1
 金盏玄狐·浇血·右 , D022002R, , , ,1
 金盏玄狐·琼楼·右 , D022002R, , , ,2
@@ -1813,6 +1825,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 虞渊引梦·右 , D022160R, , , ,243
 日月无心·右 , D022156R, , , ,242
 霜岱应元·右 , D022159R, , , ,244
+斩夜无常·右 , D022162R, , , ,245
 测试披风 , D005042, , , ,1
 蓑衣 , D005042, , , ,1
 西山宝库·蓑衣 , D005042, , , ,1
@@ -1987,6 +2000,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 残夜千里·引刃 , D006097_站立, , , ,150
 残夜千里·墨风 , D006097_站立, , , ,151
 残夜千里·绯辞 , D006097_站立, , , ,152
+斩夜无常·披风 , D006102_站立, , , ,153
 杳凝霜 , D003312, , , ,1
 月兔归 , D003313, , , ,2
 雪月交晖·佩囊 , D003316b, , , ,3
@@ -2410,123 +2424,123 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 不挠火浣 , A002od, , , ,94
 不屈青狸 , A001z, , , ,95
 骁齿 , A211_HD, , , ,96
-闪电 , Horse, Horse_11_body, , ,30
-闪电 , Horse, Horse_11_body, , ,30
-闪电 , Horse, Horse_11_body, , ,30
-赤蛇 , Horse, Horse_02_body, , ,17
-赤蛇 , Horse, Horse_02_body, , ,17
-赤蛇 , Horse, Horse_02_body, , ,17
-绝尘 , Horse, Horse_07_body, , ,25
-绝尘 , Horse, Horse_07_body, , ,25
-绝尘 , Horse, Horse_07_body, , ,25
-麟驹 , Horse, Horse_09_body, , ,28
-麟驹 , Horse, Horse_09_body, , ,28
-麟驹 , Horse, Horse_09_body, , ,28
-龙子 , Horse, Horse_04_body, , ,24
-龙子 , Horse, Horse_04_body, , ,24
-龙子 , Horse, Horse_04_body, , ,24
-里飞沙·踏秋 , Horse, Horse_12_body, , ,29
-里飞沙·踏秋 , Horse, Horse_12_body, , ,29
-里飞沙·归云 , Horse, Horse_12_body, , ,29
-里飞沙·踏秋 , Horse, Horse_12_body, , ,29
-里飞沙·流影 , Horse, Horse_12_body, , ,29
-里飞沙·初心 , Horse, Horse_12_body, , ,29
-闪电 , Horse, Horse_11_body, , ,30
-闪电 , Horse, Horse_11_body, , ,30
-闪电 , Horse, Horse_11_body, , ,30
-赤蛇 , Horse, Horse_02_body, , ,17
-赤蛇 , Horse, Horse_02_body, , ,17
-赤蛇 , Horse, Horse_02_body, , ,17
-绝尘 , Horse, Horse_07_body, , ,25
-绝尘 , Horse, Horse_07_body, , ,25
-绝尘 , Horse, Horse_07_body, , ,25
-麟驹 , Horse, Horse_09_body, , ,28
-麟驹 , Horse, Horse_09_body, , ,28
-麟驹 , Horse, Horse_09_body, , ,28
-龙子 , Horse, Horse_04_body, , ,24
-龙子 , Horse, Horse_04_body, , ,24
-龙子 , Horse, Horse_04_body, , ,24
-里飞沙·渺梦 , Horse, Horse_12_body, , ,29
-里飞沙·晴扬 , Horse, Horse_12_body, , ,29
-里飞沙·踏秋 , Horse, Horse_12_body, , ,29
-里飞沙·踏秋 , Horse, Horse_12_body, , ,29
-里飞沙·逝烟 , Horse, Horse_12_body, , ,29
-里飞沙·踏秋 , Horse, Horse_12_body, , ,29
-闪电 , Horse, Horse_11_body, , ,30
-闪电 , Horse, Horse_11_body, , ,30
-闪电 , Horse, Horse_11_body, , ,30
-赤蛇 , Horse, Horse_02_body, , ,17
-赤蛇 , Horse, Horse_02_body, , ,17
-赤蛇 , Horse, Horse_02_body, , ,17
-绝尘 , Horse, Horse_07_body, , ,25
-绝尘 , Horse, Horse_07_body, , ,25
-绝尘 , Horse, Horse_07_body, , ,25
-麟驹 , Horse, Horse_09_body, , ,28
-麟驹 , Horse, Horse_09_body, , ,28
-麟驹 , Horse, Horse_09_body, , ,28
-龙子 , Horse, Horse_04_body, , ,24
-龙子 , Horse, Horse_04_body, , ,24
-龙子 , Horse, Horse_04_body, , ,24
-里飞沙·踏秋 , Horse, Horse_12_body, , ,29
-里飞沙·踏秋 , Horse, Horse_12_body, , ,29
-里飞沙·轻云 , Horse, Horse_12_body, , ,29
-里飞沙·踏秋 , Horse, Horse_12_body, , ,29
-里飞沙·断尘 , Horse, Horse_12_body, , ,29
-里飞沙·邂逅 , Horse, Horse_12_body, , ,29
-浮云 , Horse, Horse_03_body, , ,20
-浮云 , Horse, Horse_03_body, , ,20
-浮云 , Horse, Horse_03_body, , ,20
-浮云 , Horse, Horse_03_body, , ,20
-浮云 , Horse, Horse_03_body, , ,20
-浮云 , Horse, Horse_03_body, , ,20
-浮云 , Horse, Horse_03_body, , ,20
-浮云 , Horse, Horse_03_body, , ,20
-浮云 , Horse, Horse_03_body, , ,20
-赤电 , Horse, Horse_08_body, , ,22
-赤电 , Horse, Horse_08_body, , ,22
-赤电 , Horse, Horse_08_body, , ,22
-赤电 , Horse, Horse_08_body, , ,22
-赤电 , Horse, Horse_08_body, , ,22
-赤电 , Horse, Horse_08_body, , ,22
-赤电 , Horse, Horse_08_body, , ,22
-赤电 , Horse, Horse_08_body, , ,22
-赤电 , Horse, Horse_08_body, , ,22
-绝群 , Horse, Horse_03_body, , ,23
-绝群 , Horse, Horse_03_body, , ,23
-绝群 , Horse, Horse_03_body, , ,23
-绝群 , Horse, Horse_03_body, , ,23
-绝群 , Horse, Horse_03_body, , ,23
-绝群 , Horse, Horse_03_body, , ,23
-绝群 , Horse, Horse_03_body, , ,23
-绝群 , Horse, Horse_03_body, , ,23
-绝群 , Horse, Horse_03_body, , ,23
-逸骠 , Horse, Horse_10_body, , ,27
-逸骠 , Horse, Horse_10_body, , ,27
-逸骠 , Horse, Horse_10_body, , ,27
-逸骠 , Horse, Horse_10_body, , ,27
-逸骠 , Horse, Horse_10_body, , ,27
-逸骠 , Horse, Horse_10_body, , ,27
-逸骠 , Horse, Horse_10_body, , ,27
-逸骠 , Horse, Horse_10_body, , ,27
-逸骠 , Horse, Horse_10_body, , ,27
-紫燕骝 , Horse, Horse_02_body, , ,18
-紫燕骝 , Horse, Horse_02_body, , ,18
-紫燕骝 , Horse, Horse_02_body, , ,18
-紫燕骝 , Horse, Horse_02_body, , ,18
-紫燕骝 , Horse, Horse_02_body, , ,18
-紫燕骝 , Horse, Horse_02_body, , ,18
-紫燕骝 , Horse, Horse_02_body, , ,18
-紫燕骝 , Horse, Horse_02_body, , ,18
-紫燕骝 , Horse, Horse_02_body, , ,18
-绿螭骢 , Horse, Horse_02_body, , ,19
-绿螭骢 , Horse, Horse_02_body, , ,19
-绿螭骢 , Horse, Horse_02_body, , ,19
-绿螭骢 , Horse, Horse_02_body, , ,19
-绿螭骢 , Horse, Horse_02_body, , ,19
-绿螭骢 , Horse, Horse_02_body, , ,19
-绿螭骢 , Horse, Horse_02_body, , ,19
-绿螭骢 , Horse, Horse_02_body, , ,19
-绿螭骢 , Horse, Horse_02_body, , ,19
+闪电·燕歌 , Horse, Horse_11_body, , ,30
+闪电·燕歌 , Horse, Horse_11_body, , ,30
+闪电·燕歌 , Horse, Horse_11_body, , ,30
+赤蛇·燕歌 , Horse, Horse_02_body, , ,17
+赤蛇·燕歌 , Horse, Horse_02_body, , ,17
+赤蛇·燕歌 , Horse, Horse_02_body, , ,17
+绝尘·燕歌 , Horse, Horse_07_body, , ,25
+绝尘·燕歌 , Horse, Horse_07_body, , ,25
+绝尘·燕歌 , Horse, Horse_07_body, , ,25
+麟驹·燕歌 , Horse, Horse_09_body, , ,28
+麟驹·燕歌 , Horse, Horse_09_body, , ,28
+麟驹·燕歌 , Horse, Horse_09_body, , ,28
+龙子·燕歌 , Horse, Horse_04_body, , ,24
+龙子·燕歌 , Horse, Horse_04_body, , ,24
+龙子·燕歌 , Horse, Horse_04_body, , ,24
+里飞沙·萧关 , Horse, Horse_12_body, , ,29
+里飞沙·惊风 , Horse, Horse_12_body, , ,29
+里飞沙·寒云 , Horse, Horse_12_body, , ,29
+里飞沙·明月 , Horse, Horse_12_body, , ,29
+里飞沙·塞鸿 , Horse, Horse_12_body, , ,29
+里飞沙·驰猎 , Horse, Horse_12_body, , ,29
+闪电·潮生 , Horse, Horse_11_body, , ,30
+闪电·潮生 , Horse, Horse_11_body, , ,30
+闪电·潮生 , Horse, Horse_11_body, , ,30
+赤蛇·潮生 , Horse, Horse_02_body, , ,17
+赤蛇·潮生 , Horse, Horse_02_body, , ,17
+赤蛇·潮生 , Horse, Horse_02_body, , ,17
+绝尘·潮生 , Horse, Horse_07_body, , ,25
+绝尘·潮生 , Horse, Horse_07_body, , ,25
+绝尘·潮生 , Horse, Horse_07_body, , ,25
+麟驹·潮生 , Horse, Horse_09_body, , ,28
+麟驹·潮生 , Horse, Horse_09_body, , ,28
+麟驹·潮生 , Horse, Horse_09_body, , ,28
+龙子·潮生 , Horse, Horse_04_body, , ,24
+龙子·潮生 , Horse, Horse_04_body, , ,24
+龙子·潮生 , Horse, Horse_04_body, , ,24
+里飞沙·清音 , Horse, Horse_12_body, , ,29
+里飞沙·瀚海 , Horse, Horse_12_body, , ,29
+里飞沙·影落 , Horse, Horse_12_body, , ,29
+里飞沙·落英 , Horse, Horse_12_body, , ,29
+里飞沙·春华 , Horse, Horse_12_body, , ,29
+里飞沙·潮音 , Horse, Horse_12_body, , ,29
+闪电·踏莎 , Horse, Horse_11_body, , ,30
+闪电·踏莎 , Horse, Horse_11_body, , ,30
+闪电·踏莎 , Horse, Horse_11_body, , ,30
+赤蛇·踏莎 , Horse, Horse_02_body, , ,17
+赤蛇·踏莎 , Horse, Horse_02_body, , ,17
+赤蛇·踏莎 , Horse, Horse_02_body, , ,17
+绝尘·踏莎 , Horse, Horse_07_body, , ,25
+绝尘·踏莎 , Horse, Horse_07_body, , ,25
+绝尘·踏莎 , Horse, Horse_07_body, , ,25
+麟驹·踏莎 , Horse, Horse_09_body, , ,28
+麟驹·踏莎 , Horse, Horse_09_body, , ,28
+麟驹·踏莎 , Horse, Horse_09_body, , ,28
+龙子·踏莎 , Horse, Horse_04_body, , ,24
+龙子·踏莎 , Horse, Horse_04_body, , ,24
+龙子·踏莎 , Horse, Horse_04_body, , ,24
+里飞沙·春溪 , Horse, Horse_12_body, , ,29
+里飞沙·远芳 , Horse, Horse_12_body, , ,29
+里飞沙·润泽 , Horse, Horse_12_body, , ,29
+里飞沙·草色 , Horse, Horse_12_body, , ,29
+里飞沙·风细 , Horse, Horse_12_body, , ,29
+里飞沙·蝶恋 , Horse, Horse_12_body, , ,29
+浮云·燕歌 , Horse, Horse_03_body, , ,20
+浮云·燕歌 , Horse, Horse_03_body, , ,20
+浮云·燕歌 , Horse, Horse_03_body, , ,20
+浮云·潮生 , Horse, Horse_03_body, , ,20
+浮云·潮生 , Horse, Horse_03_body, , ,20
+浮云·潮生 , Horse, Horse_03_body, , ,20
+浮云·踏莎 , Horse, Horse_03_body, , ,20
+浮云·踏莎 , Horse, Horse_03_body, , ,20
+浮云·踏莎 , Horse, Horse_03_body, , ,20
+赤电·燕歌 , Horse, Horse_08_body, , ,22
+赤电·燕歌 , Horse, Horse_08_body, , ,22
+赤电·燕歌 , Horse, Horse_08_body, , ,22
+赤电·潮生 , Horse, Horse_08_body, , ,22
+赤电·潮生 , Horse, Horse_08_body, , ,22
+赤电·潮生 , Horse, Horse_08_body, , ,22
+赤电·踏莎 , Horse, Horse_08_body, , ,22
+赤电·踏莎 , Horse, Horse_08_body, , ,22
+赤电·踏莎 , Horse, Horse_08_body, , ,22
+绝群·燕歌 , Horse, Horse_03_body, , ,23
+绝群·燕歌 , Horse, Horse_03_body, , ,23
+绝群·燕歌 , Horse, Horse_03_body, , ,23
+绝群·潮生 , Horse, Horse_03_body, , ,23
+绝群·潮生 , Horse, Horse_03_body, , ,23
+绝群·潮生 , Horse, Horse_03_body, , ,23
+绝群·踏莎 , Horse, Horse_03_body, , ,23
+绝群·踏莎 , Horse, Horse_03_body, , ,23
+绝群·踏莎 , Horse, Horse_03_body, , ,23
+逸骠·燕歌 , Horse, Horse_10_body, , ,27
+逸骠·燕歌 , Horse, Horse_10_body, , ,27
+逸骠·燕歌 , Horse, Horse_10_body, , ,27
+逸骠·踏莎 , Horse, Horse_10_body, , ,27
+逸骠·踏莎 , Horse, Horse_10_body, , ,27
+逸骠·踏莎 , Horse, Horse_10_body, , ,27
+逸骠·潮生 , Horse, Horse_10_body, , ,27
+逸骠·潮生 , Horse, Horse_10_body, , ,27
+逸骠·潮生 , Horse, Horse_10_body, , ,27
+紫燕骝·燕歌 , Horse, Horse_02_body, , ,18
+紫燕骝·燕歌 , Horse, Horse_02_body, , ,18
+紫燕骝·燕歌 , Horse, Horse_02_body, , ,18
+紫燕骝·踏莎 , Horse, Horse_02_body, , ,18
+紫燕骝·踏莎 , Horse, Horse_02_body, , ,18
+紫燕骝·踏莎 , Horse, Horse_02_body, , ,18
+紫燕骝·潮生 , Horse, Horse_02_body, , ,18
+紫燕骝·潮生 , Horse, Horse_02_body, , ,18
+紫燕骝·潮生 , Horse, Horse_02_body, , ,18
+绿螭骢·燕歌 , Horse, Horse_02_body, , ,19
+绿螭骢·燕歌 , Horse, Horse_02_body, , ,19
+绿螭骢·燕歌 , Horse, Horse_02_body, , ,19
+绿螭骢·踏莎 , Horse, Horse_02_body, , ,19
+绿螭骢·踏莎 , Horse, Horse_02_body, , ,19
+绿螭骢·踏莎 , Horse, Horse_02_body, , ,19
+绿螭骢·潮生 , Horse, Horse_02_body, , ,19
+绿螭骢·潮生 , Horse, Horse_02_body, , ,19
+绿螭骢·潮生 , Horse, Horse_02_body, , ,19
 铁纹兽皮笼套 , Horse_01_hand, , ,,10
 银龙笼套 , Horse_04_hand, , ,,11
 银风笼套 , Horse_05_hand, , ,,23
@@ -3209,6 +3223,14 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 玄影腾蛟·黑发 ,,M2_5210_head,F2_5210_head, ,
 玄影腾蛟·白发 ,,M2_5210a_head,F2_5210a_head, ,
 金发·飞灵 ,,M2_1150_head,F2_1150_head, ,
+谪仙·英菲·黑发 ,,M2_5225_head,F2_5225_head, ,
+谪仙·明江·黑发 ,,M2_5225_head,F2_5225_head, ,
+谪仙·情思·黑发 ,,M2_5225_head,F2_5225_head, ,
+谪仙·英菲·白发 ,,M2_5225a_head,F2_5225a_head, ,
+谪仙·明江·白发 ,,M2_5225a_head,F2_5225a_head, ,
+谪仙·情思·白发 ,,M2_5225a_head,F2_5225a_head, ,
+外装礼包13 ,,M2_5225_head,F2_5225_head, ,
+外装礼包12 ,,M2_5225a_head,F2_5225a_head, ,
 世外风雨·一·帽( 万花半夏帽 ),M2_2201_hat,F2_2201_hat,,,
 世外风雨·二·帽( 万花半夏帽 ),M2_2201_hat,F2_2201_hat,,,
 世外风雨·三·帽( 万花半夏帽 ),M2_2201_hat,F2_2201_hat,,,
@@ -4348,6 +4370,10 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 破狭踪·一·帽,M2_3097_hat,F2_3097_hat,,,
 破狭踪·二·帽,M2_3097_hat,F2_3097_hat,,,
 破狭踪·三·帽,M2_3097_hat,F2_3097_hat,,,
+谪仙·英菲·帽·帽,D012190M2,D012190F2,,,
+谪仙·明江·帽·帽,D012190M2,D012190F2,,,
+谪仙·情思·帽·帽,D012190M2,D012190F2,,,
+谪仙·远怀·帽·帽,D012190M2,D012190F2,,,
 因缘悟境·一( 少林皈依上衫 ),M2_2101_body,F2_2501_body,,,170
 因缘悟境·二( 少林皈依上衫 ),M2_2101_body,F2_2501_body,,,170
 因缘悟境·三( 少林皈依上衫 ),M2_2101_body,F2_2501_body,,,170
@@ -5555,6 +5581,8 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 沧海间·逝水,M2_5010b_body,F2_5010b_body,,,199
 沧海间·沉歌,M2_5010d_body,F2_5010d_body,,,616
 沧海间·玉魄,M2_5010d_body,F2_5010d_body,,,616
+沧海间·浩瀚,M2_5010c_body,F2_5010c_body,,,731
+沧海间·缥缈,M2_5010c_body,F2_5010c_body,,,731
 梦浮生·一,M2_3023b_body,F2_3023b_body,,,138
 梦浮生·二,M2_3023b_body,F2_3023b_body,,,138
 梦浮生·三,M2_3023b_body,F2_3023b_body,,,138
@@ -5624,6 +5652,8 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 罗姆之舞·碧华,M2_5014b_body,F2_5014b_body,,,203
 罗姆之舞·弦月,M2_5014d_body,F2_5014d_body,,,620
 罗姆之舞·拂秀,M2_5014d_body,F2_5014d_body,,,620
+罗姆之舞·婵娟,M2_5014c_body,F2_5014c_body,,,732
+罗姆之舞·皓月,M2_5014c_body,F2_5014c_body,,,732
 捕风捉影·寻踪,M2_5015_body,F2_5015_body,M2_1035_head,f2_1035_head,121
 捕风捉影·踏月,M2_5015_body,F2_5015_body,M2_1035_head,f2_1035_head,121
 捕风捉影·觅迹,M2_5015_body,F2_5015_body,M2_1035_head,f2_1035_head,121
@@ -6536,3 +6566,9 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 不度春风·晨露,M2_5222_body,F2_5222_body,,,723
 不度春风·海曦,M2_5222_body,F2_5222_body,,,723
 不度春风·梦晓,M2_5222_body,F2_5222_body,,,723
+斩夜无常·衣,M2_5219_body,F2_5219_body,,,724
+斩夜无常·包身,M2_5219a_body,F2_5219a_body,,,725
+谪仙·英菲·衣,M2_5225_body,F2_5225_body,,,726
+谪仙·明江·衣,M2_5225_body,F2_5225_body,,,726
+谪仙·情思·衣,M2_5225_body,F2_5225_body,,,726
+谪仙·远怀·衣,M2_5225_body,F2_5225_body,,,726
