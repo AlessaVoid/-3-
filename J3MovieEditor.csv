@@ -519,6 +519,10 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 糯团团 , D003464, , , ,511
 盼蝶生 , D003457, , , ,512
 醉挑帘 , D003458, , , ,513
+素灯别枝 , D003468, , , ,514
+应春镜 , D003467, , , ,515
+鼎运万年 , D003475, , , ,516
+春风度我 , D003474, , , ,517
 小邪子的福娃娃 , D008016, , , ,45
 小悟空 , D005137, , , ,62
 破损不堪的装备 , D016017, , , ,4
@@ -1250,6 +1254,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 幽篁栖桐·明江 , D005723, , , ,645
 幽篁栖桐·情思 , D005723, , , ,646
 幽篁栖桐·远怀 , D005723, , , ,647
+春山绘樱扇 , D005734, , , ,654
 雪娃娃 , D005687, , , ,648
 雀羽仙 , D005725, , , ,649
 锦花沐 , D005732, , , ,650
@@ -1257,6 +1262,8 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 识妆 , D005738, , , ,651
 惜落羽 , D005730, , , ,652
 莺逐锦 , D005731, , , ,653
+幽篁凝玉 , D005739, , , ,655
+烟水寻芳 , D005740, , , ,656
 如意帘·一帆风顺 , D012064, , , ,1
 如意帘·二龙戏珠 , D012065, , , ,2
 如意帘·三阳开泰 , D012066, , , ,3
@@ -1332,6 +1339,9 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 霜角悬月 , D012202M2, , , ,59
 鹿鸣野渡 , D012201M2, , , ,58
 祈黎明 , D012102c, , , ,60
+金猊逐日 , D012195M2, , , ,61
+祥狐鸣月 , D012196M2, , , ,62
+神道狐颜 , D012211M2, , , ,63
 左肩挂件 , D022002L, , , ,1
 金盏玄狐·浇血·左 , D022002L, , , ,1
 金盏玄狐·琼楼·左 , D022002L, , , ,2
@@ -2035,6 +2045,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 沐望乡 , D003337, , , ,5
 幽舞华芳·佩囊 , D003348b, , , ,6
 疏星冷 , D003436, , , ,7
+寒绯颂春 , D003469, , , ,8
 测试马道具2 , Horse_02_01b_01, , , ,2
 劣黄马 , Horse, Horse_01_body, , ,12
 劣青马 , Horse, Horse_01_body, , ,13
@@ -2724,6 +2735,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 踏花归·头饰 , Horse_56_hand, , ,,145
 石林敕勒·头饰 , Horse_72_hand, , ,,150
 朔气寒光·头饰 , Horse_74_hand, , ,,151
+三彩金辔·头饰 , Horse_82_hand, , ,,152
 铁纹鞍具 , Horse_01_belt, , ,,10
 银龙鞍具 , Horse_04_belt, , ,,11
 银风鞍具 , Horse_05_belt, , ,,23
@@ -2877,6 +2889,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 踏花归·鞍饰 , Horse_56_belt, , ,,145
 石林敕勒·鞍饰 , Horse_72_belt, , ,,150
 朔气寒光·鞍饰 , Horse_74_belt, , ,,151
+三彩金辔·鞍饰 , Horse_82_belt, , ,,152
 铁纹蹄铁 , Horse_01_leg, , ,,10
 银龙蹄铁 , Horse_04_leg, , ,,11
 银风蹄铁 , Horse_05_leg, , ,,23
@@ -3030,6 +3043,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 踏花归·足饰 , Horse_56_leg, , ,,145
 石林敕勒·足饰 , Horse_72_leg, , ,,150
 朔气寒光·足饰 , Horse_74_leg, , ,,151
+三彩金辔·足饰 , Horse_82_leg, , ,,152
 厢妆挂饰 , Horse_05_tag03, , ,,2
 英雄聚义旗 , Horse_tag_001, , ,,3
 英雄结义旗 , Horse_tag001b, , ,,4
@@ -3264,6 +3278,8 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 谪仙·情思·白发 ,,M2_5225a_head,F2_5225a_head, ,
 外装礼包11 ,,M2_5225_head,F2_5225_head, ,
 外装礼包12 ,,M2_5225a_head,F2_5225a_head, ,
+山吹樱雪·黑发 ,,M2_5228_head,F2_5228_head, ,
+山吹樱雪·白发 ,,M2_5228a_head,F2_5228a_head, ,
 万里乘风·黑发 ,,M2_5227_head,F2_5227_head, ,
 万里乘风·白发 ,,M2_5227a_head,F2_5227a_head, ,
 红发·染枫意 ,,M2_1151_head,F2_1151_head, ,
@@ -5653,6 +5669,8 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 夜斩白·清风,M2_5012_body,F2_5012_body,,,117
 夜斩白·崇舟,M2_5012d_body,F2_5012d_body,,,618
 夜斩白·陌隐,M2_5012d_body,F2_5012d_body,,,618
+夜斩白·孤云,M2_5012c_body,F2_5012c_body,,,742
+夜斩白·暮长,M2_5012c_body,F2_5012c_body,,,742
 玉蟒游龙·魅,M2_5013_body,F2_5013_body,M2_1033_head,f2_1033_head,118
 玉蟒游龙·惑,M2_5013_body,F2_5013_body,M2_1033_head,f2_1033_head,118
 玉蟒游龙·影,M2_5013_body,F2_5013_body,M2_1033_head,f2_1033_head,118
@@ -5847,6 +5865,8 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 凤舆龙驾·夜雪,M2_5037_body,F2_5037_body,m2_1076_head,F2_1076_head,131
 凤舆龙驾·化雪,M2_5037b_body,F2_5037b_body,,,677
 凤舆龙驾·错弦,M2_5037b_body,F2_5037b_body,,,677
+凤舆龙驾·皇华 ,M2_5037c_body,F2_5037c_body,,,743
+凤舆龙驾·云门,M2_5037c_body,F2_5037c_body,,,743
 仙侣奇缘·鼓迟,M2_5035_body,F2_5035_body,M2_1071_head,F2_1071_head,129
 仙侣奇缘·白尊,M2_5035_body,F2_5035_body,M2_1071_head,F2_1071_head,129
 仙侣奇缘·旌秋,M2_5035_body,F2_5035_body,M2_1071_head,F2_1071_head,129
@@ -6615,7 +6635,7 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 谪仙·情思·衣,M2_5225_body,F2_5225_body,,,726
 谪仙·远怀·衣,M2_5225_body,F2_5225_body,,,726
 万里乘风,M2_5227_body,F2_5227_body,,,729
-溪山怀石,M2_5228_body,F2_5228_body,,,727
+山吹樱雪,M2_5228_body,F2_5228_body,,,727
 浮世兰舟·兮故·衣,M2_5238_body,F2_5238_body,,,733
 浮世兰舟·兮故·包身,M2_5238a_body,F2_5238a_body,,,734
 浮世兰舟·疏衍·衣,M2_5238_body,F2_5238_body,,,737
@@ -6624,3 +6644,8 @@ Name,Mesh1,Mesh2,MatchHair1,MatchHair2,ID
 清夜幽怀·沉笙,M2_5240_body,F2_5240_body,,,735
 清夜幽怀·星居,M2_5240_body,F2_5240_body,,,735
 清夜幽怀·挽砚,M2_5240_body,F2_5240_body,,,735
+枕戈听漏·魅生,M2_5229_body,F2_5229_body,,,739
+枕戈听漏·寥歌,M2_5229_body,F2_5229_body,,,739
+枕戈听漏·夜梨,M2_5229_body,F2_5229_body,,,739
+枕戈听漏·将醉,M2_5229_body,F2_5229_body,,,739
+晴岚绘,M2_5230a_body,F2_5230a_body,,,741
